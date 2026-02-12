@@ -2,6 +2,7 @@
 
 ## Содержание
 - Диаграмма: reports/support_process_diagram.md (Mermaid)
+- Диаграмма (draw.io): reports/support_process_diagram.drawio
 
 ## Кратко
 - Этапы: Ошибка → Диагностика → Решение → Тестирование → Документация → Закрытие.
